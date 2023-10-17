@@ -24,7 +24,7 @@ function Navbar() {
             </div>
 
           <div className='flex gap-4 '>
-            <div className='hover:underline'>Categorias</div>
+            <div className='hover:underline'>  Categorias</div>
             <div className='hover:underline'>Cadastrar Categoria</div>
             <div className='hover:underline'><img src={Perfil} alt="" className='IconeNavBar' /></div>
             <div className='hover:underline'><img src={Carrinho} alt="" className='IconeNavBar' /></div>
