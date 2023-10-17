@@ -2,3 +2,44 @@
     background-color: rgb(0, 217, 255);
 
 }
+
+.cardInteiro {
+    margin: 10px;
+    background-color: white;
+    width: 250px;
+    height: 280px;
+    border-radius: 30px;
+}
+
+.fundoProdutos {
+    background-color: rgb(226, 226, 226);
+}
+
+.cardImagemFinal {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+.cardTexto {
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.CardComprar {
+    background-color: rgb(38, 0, 255);
+    color: white !important;
+}
+
+.cardImagemFinalDiferente {
+    margin: 20px;
+}
+
+.cardImagemFinalBox {
+    margin-left: 50px;
+    height: 144px;
+}
+
